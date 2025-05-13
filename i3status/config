@@ -1,0 +1,35 @@
+general {
+    colors = true
+    interval = 5
+}
+
+order += "memory"
+order += "wireless _first_"
+order += "ethernet _first_"
+order += "volume master"
+order += "tztime local"
+
+wireless _first_ {
+    format_up = "WiFi: %essid %quality"
+    format_down = "WiFi: down"
+}
+
+ethernet _first_ {
+    format_up = "LAN: %ip"
+    format_down = "LAN: down"
+}
+
+volume master {
+    format = "Vol: %volume"
+    format_muted = "Vol: muted"
+}
+
+memory {
+    format = "RAM: %used / %total"
+    threshold_degraded = "90%"
+}
+
+tztime local {
+    format = "Time: %Y-%m-%d %H:%M"
+}
+
