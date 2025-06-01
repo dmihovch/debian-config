@@ -1,0 +1,156 @@
+21:23:09.007: Using EGL/X11
+21:23:09.007: CPU Name: Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz
+21:23:09.007: CPU Speed: 3600.113MHz
+21:23:09.007: Physical Cores: 6, Logical Cores: 6
+21:23:09.007: Physical Memory: 15855MB Total, 13021MB Free
+21:23:09.007: Kernel Version: Linux 6.1.0-34-amd64
+21:23:09.007: Distribution: "Debian GNU/Linux" "12"
+21:23:09.007: Session Type: x11
+21:23:09.007: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+21:23:09.008: Qt Version: 5.15.8 (runtime), 5.15.8 (compiled)
+21:23:09.008: Portable mode: false
+21:23:09.036: OBS 29.0.2.1-1+b1 (linux)
+21:23:09.036: ---------------------------------
+21:23:09.037: ---------------------------------
+21:23:09.037: audio settings reset:
+21:23:09.037: 	samples per sec: 48000
+21:23:09.037: 	speakers:        2
+21:23:09.037: 	max buffering:   960 milliseconds
+21:23:09.037: 	buffering type:  dynamically increasing
+21:23:09.044: ---------------------------------
+21:23:09.044: Initializing OpenGL...
+21:23:09.085: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3070/PCIe/SSE2
+21:23:09.085: OpenGL loaded successfully, version 3.3.0 NVIDIA 535.216.01, shading language 3.30 NVIDIA via Cg compiler
+21:23:09.190: ---------------------------------
+21:23:09.190: video settings reset:
+21:23:09.190: 	base resolution:   1920x1080
+21:23:09.190: 	output resolution: 1280x720
+21:23:09.190: 	downscale filter:  Bicubic
+21:23:09.190: 	fps:               30/1
+21:23:09.190: 	format:            NV12
+21:23:09.190: 	YUV mode:          Rec. 709/Partial
+21:23:09.190: NV12 texture support not available
+21:23:09.191: P010 texture support not available
+21:23:09.191: Audio monitoring device:
+21:23:09.191: 	name: Default
+21:23:09.191: 	id: default
+21:23:09.191: ---------------------------------
+21:23:09.192: Failed to load 'en-US' text for module: 'decklink-captions.so'
+21:23:09.193: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+21:23:09.194: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+21:23:09.194: Failed to initialize module 'decklink.so'
+21:23:09.241: [pipewire] No captures available
+21:23:09.244: v4l2loopback not installed, virtual camera disabled
+21:23:09.300: NVENC supported
+21:23:09.320: VAAPI: API version 1.17
+21:23:09.321: FFmpeg VAAPI H264 encoding supported
+21:23:09.332: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.1.0 | RPC Version: 1)
+21:23:09.332: [obs-websocket] [obs_module_load] Qt version (compile-time): 5.15.8 | Qt version (run-time): 5.15.8
+21:23:09.332: [obs-websocket] [obs_module_load] Linked ASIO Version: 102201
+21:23:09.332: [obs-websocket] [Config::Load] (FirstLoad) Generating new server password.
+21:23:09.340: [obs-websocket] [obs_module_load] Module loaded.
+21:23:09.347: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+21:23:09.347: ---------------------------------
+21:23:09.347:   Loaded Modules:
+21:23:09.347:     vlc-video.so
+21:23:09.347:     text-freetype2.so
+21:23:09.347:     rtmp-services.so
+21:23:09.347:     obs-x264.so
+21:23:09.347:     obs-websocket.so
+21:23:09.347:     obs-transitions.so
+21:23:09.347:     obs-outputs.so
+21:23:09.347:     obs-filters.so
+21:23:09.347:     obs-ffmpeg.so
+21:23:09.347:     linux-v4l2.so
+21:23:09.347:     linux-pulseaudio.so
+21:23:09.347:     linux-pipewire.so
+21:23:09.347:     linux-jack.so
+21:23:09.347:     linux-capture.so
+21:23:09.348:     linux-alsa.so
+21:23:09.348:     image-source.so
+21:23:09.348:     frontend-tools.so
+21:23:09.348:     decklink-output-ui.so
+21:23:09.348:     decklink-captions.so
+21:23:09.348: ---------------------------------
+21:23:09.348: ==== Startup complete ===============================================
+21:23:09.351: No scene file found, creating default scene
+21:23:09.400: All scene data cleared
+21:23:09.400: ------------------------------------------------
+21:23:09.408: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.65) 15.0.0'
+21:23:09.408: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+21:23:09.408: pulse-input: Started recording from 'alsa_output.usb-GeneralPlus_USB_Audio_Device-00.pro-output-0.monitor' (default)
+21:23:09.409: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.65) 15.0.0'
+21:23:09.409: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+21:23:09.409: pulse-input: Started recording from 'alsa_input.usb-Sonix_Technology_Co.__Ltd._W4DS_SN0001-02.analog-stereo' (default)
+21:23:09.410: Switched to scene 'Scene'
+21:23:09.410: Failed to glob scene collections
+21:23:09.505: [rtmp-services plugin] Successfully updated file 'services.json' (version 220)
+21:23:09.505: [rtmp-services plugin] Successfully updated package (version 220)
+21:23:09.976: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+21:23:09.976: 
+21:23:21.017: 
+21:23:21.017: ==== Auto-config wizard testing commencing ======
+
+21:23:23.142: Number of remaining views: 1
+21:23:23.143: ---------------------------------
+21:23:23.143: video settings reset:
+21:23:23.143: 	base resolution:   1920x1080
+21:23:23.143: 	output resolution: 1920x1080
+21:23:23.143: 	downscale filter:  Bicubic
+21:23:23.143: 	fps:               60/1
+21:23:23.143: 	format:            NV12
+21:23:23.143: 	YUV mode:          Rec. 709/Partial
+21:23:23.143: NV12 texture support not available
+21:23:23.143: P010 texture support not available
+21:23:23.149: 
+21:23:23.149: ==== Auto-config wizard testing stopping ========
+
+21:23:39.072: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.65) 15.0.0'
+21:23:39.073: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+21:23:39.073: pulse-input: Started recording from 'alsa_input.usb-Sonix_Technology_Co.__Ltd._W4DS_SN0001-02.analog-stereo' (default)
+21:23:39.083: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'Scene'
+21:23:40.099: adding 64 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Audio Input Capture (PulseAudio))
+21:23:40.099: 
+21:23:40.708: pulse-input: Stopped recording from 'alsa_input.usb-DCMT_Technology_USB_Condenser_Microphone_214b206000000178-00.pro-input-0'
+21:23:40.708: pulse-input: Got 63 packets with 75600 frames
+21:23:40.710: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.65) 15.0.0'
+21:23:40.710: pulse-input: Audio format: s24le, 48000 Hz, 1 channels
+21:23:40.711: pulse-input: Sample format s24le not supported by OBS,using float32le instead for recording
+21:23:40.711: pulse-input: Started recording from 'alsa_input.usb-DCMT_Technology_USB_Condenser_Microphone_214b206000000178-00.pro-input-0'
+21:23:54.762: xshm-input: Geometry 1920x1080 @ 1920,0
+21:23:54.772: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Scene'
+21:24:05.109: v4l2-input: Start capture from 
+21:24:05.110: v4l2-input: Unable to open device
+21:24:05.110: v4l2-input: Initialization failed, errno: No such file or directory
+21:24:05.130: User added source 'Video Capture Device (V4L2)' (v4l2_input) to scene 'Scene'
+21:24:05.168: v4l2-input: /dev/video1 seems to not support video capture
+21:24:05.170: v4l2-input: Found device 'W4DS: W4DS' at /dev/video0
+21:24:05.172: v4l2-input: Found input 'Input 1' (Index 0)
+21:24:05.172: v4l2-controls: setting default for Power Line Frequency to 1
+21:24:05.172: v4l2-controls: setting default for Auto Exposure to 3
+21:24:05.174: v4l2-input: Pixelformat: Motion-JPEG (available)
+21:24:05.174: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+21:24:05.174: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+21:24:05.174: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+21:24:05.174: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+21:24:05.174: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+21:24:05.176: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+21:24:05.177: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+21:24:05.178: v4l2-input: Start capture from /dev/video0
+21:24:05.179: v4l2-input: Input: 0
+21:24:05.179: v4l2-input: Resolution: 1920x1080
+21:24:05.180: v4l2-input: Pixelformat: MJPG
+21:24:05.180: v4l2-input: Linesize: 0 Bytes
+21:24:05.180: v4l2-input: Framerate: 25.00 fps
+21:24:05.183: v4l2-input: Pixelformat: Motion-JPEG (available)
+21:24:05.183: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+21:24:05.183: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+21:24:05.183: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+21:24:05.183: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+21:24:05.183: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+21:24:05.185: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+21:24:05.186: v4l2-input: /dev/video0: select timeout set to 200000 (5x frame periods)
+21:24:05.186: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+21:24:05.433: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+21:24:05.631: v4l2-input: /dev/video0: select timed out
+21:24:05.631: v4l2-input: /dev/video0: failed to log status

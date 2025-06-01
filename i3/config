@@ -153,6 +153,8 @@ bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcu
 
 #START OF MY ADDITIONS
 
+exec_always --no-startup-id zsh -c 'sleep 1 && setxkbmap -option caps:swapescape'
+
 
 #dual monitor setup
 exec --no-startup-id xrandr --output DP-0 --primary --mode 1920x1080 --right-of HDMI-0 --output HDMI-0 --mode 1920x1080
