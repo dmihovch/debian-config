@@ -157,8 +157,8 @@ exec_always --no-startup-id zsh -c 'sleep 1 && setxkbmap -option caps:swapescape
 
 
 #dual monitor setup
-exec --no-startup-id xrandr --output DP-0 --primary --mode 1920x1080 --right-of HDMI-0 --output HDMI-0 --mode 1920x1080
 workspace 1 output DP-0
+
 
 
 #rofi
